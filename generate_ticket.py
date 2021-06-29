@@ -32,6 +32,7 @@ else:
   
 url = wgserverURL + ticketID + '/views/' + workbookView
 print(url)  
+# add content types
 
 print("Content-Type: text/html")
 print()
